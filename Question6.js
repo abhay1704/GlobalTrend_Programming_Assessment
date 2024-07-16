@@ -1,4 +1,5 @@
-/*Write a function that takes a string and capitalizes the first letter of each word in the string*/
+/*
+Write a function that takes a string and capitalizes the first letter of each word in the string*/
 
 const capitaliseEachWord = (str) => {
   return str

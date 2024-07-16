@@ -9,8 +9,8 @@ const fizzBuzz = () => {
     if (i % 5 === 0) output += "Buzz";
     if (i % 3 && i % 5) output += i;
     output += "\n";
-    }
-    console.log(output);
+  }
+  console.log(output);
 };
 
 fizzBuzz();
